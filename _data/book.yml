@@ -8,3 +8,5 @@ toc:
   chapters:
   - url: dedication
     status: draft
+- url: one
+  status: ready

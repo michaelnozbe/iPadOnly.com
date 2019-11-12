@@ -1,7 +1,7 @@
 ---
 part: intro
 title: Introduction
-subtitle: When Steve Jobs announced the iPad
+subtitle: When Steve Jobs announced the iPad...
 ---
 
 * TOC (optional)
