@@ -13,3 +13,7 @@ toc:
   chapters:
   - url: personal
     status: ready
+  - url: because
+    status: ready
+  - url: before
+    status: ready

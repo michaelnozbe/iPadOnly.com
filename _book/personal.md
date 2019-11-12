@@ -1,6 +1,6 @@
 ---
 part: one
-title: "Chapter 2 - Going #iPadOnly is a personal journey"
+title: "Chapter 2. Going #iPadOnly is a personal journey"
 subtitle: Change your paradigms and try something new
 ---
 
