@@ -10,8 +10,8 @@ title: iPadOnly is licensed under CC BY-SA 4.0
 
 You are free to:
 
-- **Share** — copy and redistribute the contents of NoOffice.org in any medium or format
-- **Adapt** — remix, transform, and build upon the contents of NoOffice.org for any purpose, even commercially
+- **Share** — copy and redistribute the contents of iPadOnly.com in any medium or format
+- **Adapt** — remix, transform, and build upon the contents of iPadOnly.com for any purpose, even commercially
 
 Under the following terms:
 

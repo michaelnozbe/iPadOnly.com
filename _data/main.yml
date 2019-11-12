@@ -1,7 +1,7 @@
 searchbox: "search..."
 searchbox_no: "Nothing found!"
 
-nav_footer: "(brought to you by <a href='https://sliwinski.com'>Michael Sliwinski</a> - the founder of <a href='https://nozbe.com'>Nozbe</a>)"
+nav_footer: "(brought to you by <a href='/about'>Augusto Pinaud and Michael Sliwinski</a>)"
 
 nav:
 
@@ -16,12 +16,12 @@ nav:
 
 tags:
 
-- name: essay
-  url: "/tag/essay/"
-  title: "Essays on #NoOffice"
-  subtitle: "All essays on #NoOffice and all-remote work published before and while working on the book."
+- name: news
+  url: "/tag/news/"
+  title: "News on #iPadOnly"
+  subtitle: "All news and announcements regarding the now-open-source #iPadOnly book project"
 - name: video
   url: "/tag/video/"
-  title: "Video presentations"
-  subtitle: "Videos and keynote presentations around remote working and promoting #NoOffice communication and lifestlye"
+  title: "Video chats"
+  subtitle: "Videos and chats between the #iPadOnly book co-authors"
 

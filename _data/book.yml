@@ -1,12 +1,15 @@
-title: iPadOnly book
+title: "#iPadOnly book"
 back: Back to the Table of Contents
 continue: "Next Chapter:"
 draft: "[Draft]"
 toc:
 - url: intro
-  status: ready # options are: empty (no document created even), draft (rough draft) and ready (published document)
+  status: ready # options are: draft (rough draft) and ready (published document)
   chapters:
   - url: dedication
     status: draft
 - url: one
   status: ready
+  chapters:
+  - url: personal
+    status: ready
