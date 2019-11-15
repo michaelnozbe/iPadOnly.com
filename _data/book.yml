@@ -9,7 +9,6 @@ toc:
   - url: dedication
     status: draft
 - url: one
-  status: ready
   chapters:
   - url: personal
   - url: because
@@ -21,4 +20,6 @@ toc:
 - url: two
   chapters:
   - url: job
+  - url: keyboard
+    status: draft
     

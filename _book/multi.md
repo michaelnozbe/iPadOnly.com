@@ -1,5 +1,3 @@
-
-
 ---
 part: one
 title: Multi-tasking or multi-distracting?
