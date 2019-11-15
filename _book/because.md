@@ -1,7 +1,7 @@
 ---
 part: one
-title: "Chapter 3. The ‘because you can’ problem."
-subtitle: "iPad is different and it requires a different approach than a laptop"
+title: "The ‘because you can’ problem"
+subtitle: "The iPad is different and it requires a different approach than a laptop"
 ---
 
 * TOC (optional)

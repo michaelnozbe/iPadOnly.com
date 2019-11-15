@@ -1,7 +1,7 @@
 ---
 part: one
-title: "Chapter 1. Why #iPadOnly?"
-subtitle: Computing becomes much more intimate 
+title: "Section 1. Why #iPadOnly?"
+subtitle: Computing becomes much more intimate...
 ---
 
 “People laugh at me because I describe the iPad as magical. You have a much more direct and intimate relationship with the Internet and media and apps and your content.” 

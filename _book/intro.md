@@ -65,4 +65,12 @@ We believe most busy professionals, including you, can work #iPadOnly. We think 
 
 ## This is our 2nd revision of the book
 
-We initially published this book one year ago, in the summer of 2013, right after the iOS7 announcement. While the basic concepts of this book and of our #iPadOnly way remain the same, in the last year since iOS7 shipped things changed. Apps got updated (even Microsoft Office for the iPad finally saw the light!) and iOS8 was announced. This revision takes all of these things into account. Enjoy!
+We initially published this book years ago, in the summer of 2013, right after the iOS7 announcement. Today I'm editing this chapter on an iPad Pro 11" which is rocking iOS13... or better yet - iPadOS13. That's right, so much has changed that the iPad got his official operating system!
+
+And yet, even though our book was written more than 6 years ago and both the hardware and the software have come a long way since then... we still believe most parts of our book are as relevant now as they were then.
+
+Most of the people still look at iPads as these inferior devices and claim you cannot get "real work" done there.
+
+That's why we both decided to open source our book - put it up on the Internet for everyone to read and enjoy - and keep updating parts of it to show you how liberating and exciting work and play on the iPad can be.
+
+Let's go!

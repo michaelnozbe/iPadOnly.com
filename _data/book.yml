@@ -4,7 +4,7 @@ continue: "Next Chapter:"
 draft: "[Draft]"
 toc:
 - url: intro
-  status: ready # options are: draft (rough draft) and ready (published document)
+  status: draft # options are: draft (rough draft) and ready (published document)
   chapters:
   - url: dedication
     status: draft
@@ -12,8 +12,13 @@ toc:
   status: ready
   chapters:
   - url: personal
-    status: ready
   - url: because
-    status: ready
   - url: before
-    status: ready
+  - url: kiss
+  - url: cloud
+  - url: multi
+  - url: mini
+- url: two
+  chapters:
+  - url: job
+    

@@ -1,6 +1,6 @@
 ---
 part: one
-title: Chapter 4. Our lives before the iPad...
+title: Our lives before the iPad...
 subtitle: "When going #iPadOnly simplifies everything"
 ---
 
