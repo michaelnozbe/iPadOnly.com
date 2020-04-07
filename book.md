@@ -6,8 +6,10 @@ title: Table of Contents
 
 {% include book.html %}
 
-This is the initial version of the Table of Contents of the #iPadOnly book.
+This is the Table of Contents of the #iPadOnly book as [launched on Friday, July 12, 2013](/launch/). As it was imported and [open-sourced](/open), we've made some minor updates to the content of the book, but it's still more-less the same as it was launched when iOS6 was the king and iOS7 was announced.
 
-**Last update: November 12, 2019**
+Some chapters are completely out of date but surprising amount of content seems timeless and is still relevant today. So enjoy and read the first post-PC book - after all, it's free now!
+
+**Last update: April 7, 2020**
 
 {% include book_toc.html %}
