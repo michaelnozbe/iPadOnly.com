@@ -4,10 +4,8 @@ continue: "Next Chapter:"
 draft: "[Draft]"
 toc:
 - url: intro
-  status: draft # options are: draft (rough draft) and ready (published document)
   chapters:
   - url: dedication
-    status: draft
 - url: one
   chapters:
   - url: personal
@@ -21,5 +19,35 @@ toc:
   chapters:
   - url: job
   - url: keyboard
-    status: draft
-    
+  - url: productivity
+- url: three
+  chapters:
+  - url: web
+  - url: read
+  - url: file
+  - url: note
+  - url: office
+  - url: email
+  - url: communication
+  - url: social
+  - url: write
+  - url: travel
+  - url: task
+  - url: mind
+  - url: learn
+  - url: parent
+  - url: entertainment
+  - url: game
+  - url: handy
+- url: four
+  chapters:
+  - url: iphone
+  - url: second
+  - url: record
+  - url: family
+- url: five
+  chapters:
+  - url: gear
+  - url: gipad
+  - url: giphone
+- url: final
