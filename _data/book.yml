@@ -2,52 +2,95 @@ title: "#iPadOnly book"
 back: Back to the Table of Contents
 continue: "Next Chapter:"
 draft: "[Draft]"
+url: book
 toc:
 - url: intro
+  chname: Intro
   chapters:
   - url: dedication
+    chname: Dedication
 - url: one
+  chname: Section 1
   chapters:
   - url: personal
+    chname: Chapter 1
   - url: because
+    chname: Chapter 2
   - url: before
+    chname: Chapter 3
   - url: kiss
+    chname: Chapter 4
   - url: cloud
+    chname: Chapter 5
   - url: multi
+    chname: Chapter 6
   - url: mini
+    chname: Chapter 7
 - url: two
+  chname: Section 2
   chapters:
   - url: job
+    chname: Chapter 8
   - url: keyboard
+    chname: Chapter 9
   - url: productivity
+    chname: Chapter 10
 - url: three
+  chname: Section 3
   chapters:
   - url: web
+    chname: Chapter 11
   - url: read
+    chname: Chapter 12
   - url: file
+    chname: Chapter 13
   - url: note
+    chname: Chapter 14
   - url: office
+    chname: Chapter 15
   - url: email
+    chname: Chapter 16
   - url: communication
+    chname: Chapter 17
   - url: social
+    chname: Chapter 18
   - url: write
+    chname: Chapter 19
   - url: travel
+    chname: Chapter 20
   - url: task
+    chname: Chapter 21
   - url: mind
+    chname: Chapter 22
   - url: learn
+    chname: Chapter 23
   - url: parent
+    chname: Chapter 24
   - url: entertainment
+    chname: Chapter 25
   - url: game
+    chname: Chapter 26
   - url: handy
+    chname: Chapter 27
 - url: four
+  chname: Section 4
   chapters:
   - url: iphone
+    chname: Chapter 28
   - url: second
+    chname: Chapter 29
   - url: record
+    chname: Chapter 30
   - url: family
+    chname: Chapter 31
 - url: five
+  chname: Section 5
   chapters:
   - url: gear
+    chname: Chapter 32
   - url: gipad
+    chname: Chapter 33
   - url: giphone
+    chname: Chapter 34
 - url: final
+  chname: The End

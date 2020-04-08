@@ -1,7 +1,8 @@
 ---
 part: toc
 layout: page
-title: Table of Contents
+title: "#iPadOnly book - Table of Contents"
+book: book
 ---
 
 {% include book.html %}
@@ -10,6 +11,6 @@ This is the Table of Contents of the #iPadOnly book as [launched on Friday, July
 
 Some chapters are completely out of date but surprising amount of content seems timeless and is still relevant today. So enjoy and read the first post-PC book - after all, it's free now!
 
-**Last update: April 7, 2020**
+**Last update: April 8, 2020**
 
 {% include book_toc.html %}

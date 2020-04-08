@@ -1,6 +1,6 @@
 ---
 part: intro
-title: Dedication
+title: Thank you!
 subtitle: We dedicate this book to our families
 ---
 

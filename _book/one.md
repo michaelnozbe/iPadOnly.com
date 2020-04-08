@@ -1,6 +1,6 @@
 ---
 part: one
-title: "Section 1. Why #iPadOnly?"
+title: "Why #iPadOnly?"
 subtitle: Computing becomes much more intimate...
 ---
 

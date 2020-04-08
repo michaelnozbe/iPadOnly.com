@@ -1,7 +1,7 @@
 ---
 part: intro
-title: Introduction
-subtitle: When Steve Jobs announced the iPad...
+title: "A new device"
+subtitle: When Steve Jobs announced the iPad, he wanted it to be better than a smartphone or a laptop at some key tasks...
 ---
 
 * TOC (optional)

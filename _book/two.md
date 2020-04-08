@@ -1,6 +1,6 @@
 ---
 part: two
-title: Section 2. The New Office Paradigm
+title: The New Office Paradigm
 subtitle: Can a tablet substitute your whole office equipment?
 ---
 
